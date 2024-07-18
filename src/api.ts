@@ -1,4 +1,6 @@
 import axios from 'axios'
-export const fhirBaseUrl = 'https://fhir-bootcamp.medblocks.com/fhir'
+export const fhirBaseUrl = 'https://demo.kodjin.com/fhir'
 
-export const fhirApi = axios.create({baseURL: fhirBaseUrl})
+export const fhirApi = axios.create({baseURL: fhirBaseUrl, headers: {
+    'Cache-Control' : 'no-cache'
+}})
