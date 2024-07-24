@@ -2,7 +2,7 @@
 
 Description
 
-The following repository outlines a basic patient management application enabling patient creation and update. Patients are managed from a FHIR server where the application lists the latest 30 pages and enables paginations for a view of all the patients on the server. Patients are also searchable via name and phone number.
+The following repository outlines a basic patient management application enabling patient creation and update. Patients are managed from a FHIR server where the application lists the latest 30 patients and enables paginations for a view of all the patients on the server. Patients are also searchable via name and phone number.
 
 Features
 
