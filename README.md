@@ -8,6 +8,7 @@ Features
 
   Patient Creation: Enables users to create patients using Name, Date of Birth, Gender and Phone Number
   Patient Update: Allows users to update patient information
+  
   Patient Search: Facilitates searching for patients through Name and Phone Number
   Pagination: Navigate through all patients on the server, 30 patients per page
   
